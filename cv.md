@@ -19,7 +19,7 @@
 ### Sprachen
 
 - Deutsch (Muttersprachler)
-- Englisch (B2)
+- Englisch (C1)
 - Französisch (A2)
 
 ### Programmiersprachen
