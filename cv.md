@@ -1,5 +1,3 @@
-# Lebenslauf
-
 ### Bildung
 
 - Dalbekschule Börnsen x
@@ -19,12 +17,13 @@
 ### Sprachen
 
 - Deutsch (Muttersprachler)
-- Englisch (C1)
+- Englisch (C1, 130 Punkte Duolingo)
 - Französisch (A2)
 
 ### Programmiersprachen
 
-- Java, Python, SQL, JavaScript (Grundkenntnisse), (RISC-V) Assembly, C++(Grundkenntnisse)
+- Python, Java, SQL, JavaScript (Grundkenntnisse), (RISC-V) Assembly, C++(Grundkenntnisse)
+- ML-Frameworks: Tensorflow Keras, Pytorch
 
 ### Praktika
 
@@ -33,6 +32,6 @@
 
 ### Interessen
 
-- Fußball, Surfen, Marathon, Fitness
-- Reisen, Musik/DJ, Lesen, Formel1
+- Fußball, Tennis, Surfen, Marathon, Fitness
+- Reisen, Musik/DJ, Lesen, Motorsport, Formel1
 - AI, Machine Learning, Deep Learning, Data Science
