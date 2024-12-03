@@ -31,7 +31,9 @@
 ### Practical Experience
 
 - Kiwa Germany (Intern, 2018)
+    - Skills: Analytical Skills, IT Operations, IT Audits, IT Management
 - Helmholtz-Zentrum Hereon (Intern, 2019)
+    - Skills: Analytical Skills, Research and Development (R&D), Scientific Research, Material Research, Assembly Language, C++
 
 ### Interests
 
