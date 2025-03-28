@@ -3,7 +3,7 @@
 ### Education
 
 - Dalbekschule Börnsen 2009 - 2013
-- Gymnasium Wentorf (High School Diploma, GPA 2.4) 2013 - 2021
+- Gymnasium Wentorf (High School Diploma, 2.4 (B+)) 2013 - 2021
 - University of Lübeck (Computer Science, B.Sc.) 2021 - Present
 - San Francisco State University (Study Abroad, Computer Science) 2024
 
@@ -25,8 +25,9 @@
 
 ### Technical Skills
 
-- Programming Languages: Python, Java, SQL, JavaScript (Basic Knowledge), (RISC-V) Assembly, C++ (Basic Knowledge)
+- Programming Languages: Python, Java, SQL, JavaScript (Basic Knowledge), RISC-V Assembly, C++ (Basic Knowledge)
 - Machine Learning Frameworks: TensorFlow, Keras, PyTorch
+- Full Stack: Next.js (Basic Knowledge), Python FastAPI, OpenAI ResponseAPI, Deployment (Basic Knowledge), Docker (Basic Knowledge)
 
 ### Practical Experience
 
