@@ -25,7 +25,7 @@
 
 ### Technical Skills
 
-- Programming Languages: Python, Java, SQL, JavaScript (Basic Knowledge), RISC-V Assembly, C++ (Basic Knowledge)
+- Programming Languages: Python, Java, SQL, JavaScript (Basic Knowledge), RISC-V Assembly, C++ (Basic Knowledge), Swift (Basic Knowledge)
 - Machine Learning Frameworks: TensorFlow, Keras, PyTorch
 - Full Stack: Next.js (Basic Knowledge), Python FastAPI, OpenAI ResponseAPI, Deployment (Basic Knowledge), Docker (Basic Knowledge)
 
