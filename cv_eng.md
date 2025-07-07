@@ -25,19 +25,21 @@
 
 ### Technical Skills
 
-- Programming Languages: Python, Java, SQL, JavaScript (Basic Knowledge), RISC-V Assembly, C++ (Basic Knowledge), Swift (Basic Knowledge)
-- Machine Learning Frameworks: TensorFlow, Keras, PyTorch
-- Full Stack: Next.js (Basic Knowledge), Python FastAPI, OpenAI ResponseAPI, Deployment (Basic Knowledge), Docker (Basic Knowledge)
+- Programming Languages: Python, Java, C++*, SQL, JavaScript*, RISC-V Assembly, Swift*
+- Machine Learning Frameworks: PyTorch, OpenCV, Scikit-Learn, TensorFlow, Keras
+- Full Stack: Next.js, Python FastAPI, OpenAI ResponseAPI, Deployment*, Docker*
 
 ### Practical Experience
 
 - Kiwa Germany (Intern, 2018)
     - Skills: Analytical Skills, IT Operations, IT Audits, IT Management
 - Helmholtz-Zentrum Hereon (Intern, 2019)
-    - Skills: Analytical Skills, Research and Development (R&D), Scientific Research, Material Research, Assembly Language, C++
+    - Skills: Analytical Skills, Research and Development (R&D), Scientific Research, Material Research, Assembly Language, C++, Microcontroller Dev
 
 ### Interests
 
 - Sports: Football (Soccer), Tennis, Surfing, Marathon, Fitness
-- Hobbies: Traveling, Music/DJing, Reading, Motorsport, Formula 1
-- Professional Interests: Artificial Intelligence, Machine Learning, Deep Learning, Data Science
+- Hobbies: Traveling, Music/DJing, Reading, Motorsport, Formula 1, Hackathons, Building Apps
+- Professional Interests: Machine Learning, Deep Learning, Data Science, Product Development
+
+* = Basic Knowledge
