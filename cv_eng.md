@@ -42,4 +42,4 @@
 - Hobbies: Traveling, Music/DJing, Reading, Motorsport, Formula 1, Hackathons, Building Apps
 - Professional Interests: Machine Learning, Deep Learning, Data Science, Product Development
 
-"*" = Basic Knowledge
+*(Basic Knowledge = * )*
