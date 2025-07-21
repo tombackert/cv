@@ -45,3 +45,10 @@ Ambitious Computer Science student specializing in Machine Learning and Software
 ## Interests
 
 - Professional: Artificial Intelligence (AI), Machine Learning (ML), Data Science, Product Development, Game Theory, Psychology
+
+## Contact
+
+- tom.backert@outlook.de
+- +4915141248550
+- https://www.linkedin.com/in/tombackert
+- https://github.com/tombackert
