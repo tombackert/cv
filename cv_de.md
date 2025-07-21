@@ -45,3 +45,10 @@ Ambitionierter Informatikstudent mit Spezialisierung auf Maschinelles Lernen und
 ## Interessen
 
 - Fachlich: Künstliche Intelligenz (KI), Maschinelles Lernen (ML), Data Science, Produktentwicklung, Spieltheorie, Psychologie
+
+## Kontakt
+
+- tom.backert@outlook.de
+- +4915141248550
+- https://www.linkedin.com/in/tombackert
+- https://github.com/tombackert
