@@ -1,5 +1,12 @@
 # Lebenslauf
 
+## Kontakt
+
+- <tom.backert@outlook.de>
+- +4915141248550
+- <https://www.linkedin.com/in/tombackert>
+- <https://github.com/tombackert>
+
 ## Bildung
 
 - San Francisco State University | Auslandssemester, Computer Science (1.0) | San Francisco, CA | Aug 2024 - Dez 2024
@@ -45,10 +52,3 @@ Ambitionierter Informatikstudent mit Spezialisierung auf Maschinelles Lernen und
 ## Interessen
 
 - Fachlich: Künstliche Intelligenz (KI), Maschinelles Lernen (ML), Data Science, Produktentwicklung, Spieltheorie, Psychologie
-
-## Kontakt
-
-- tom.backert@outlook.de
-- +4915141248550
-- https://www.linkedin.com/in/tombackert
-- https://github.com/tombackert
